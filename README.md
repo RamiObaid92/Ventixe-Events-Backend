@@ -89,24 +89,6 @@ The API manages the following core entities:
 *   **Name:** `string` - The name of the category.
 *   **Events:** Navigation property to a collection of `Event` entities belonging to this category.
 
-The system comes pre-populated with 16 categories, including:
-*   Music
-*   Technology
-*   Health & Wellness
-*   Art & Design
-*   Sports & Fitness
-*   Food & Culinary
-*   Business & Networking
-*   Education & Workshops
-*   Travel & Adventure
-*   Gaming
-*   Literature & Books
-*   Film & Cinema
-*   Fashion & Style
-*   Home & Garden
-*   Automotive
-*   Community & Social
-
 ##  API Endpoints
 
 All endpoints are typically prefixed with `/api`.
