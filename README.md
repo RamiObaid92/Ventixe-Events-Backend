@@ -107,7 +107,7 @@ The system comes pre-populated with 16 categories, including:
 *   Automotive
 *   Community & Social
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 All endpoints are typically prefixed with `/api`.
 
@@ -159,7 +159,7 @@ The API uses an API Key-based authentication scheme. To access the protected end
 
 Requests without a valid API key or with an incorrect key will result in a `401 Unauthorized` response.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 *   [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
