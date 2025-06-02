@@ -67,7 +67,7 @@ The project follows a clean, layered architecture to promote separation of conce
 *   `CacheHandler` (or similar): A generic component or service responsible for caching logic.
 *   `ApiKeyMiddleware`: Custom middleware for handling API Key authentication.
 
-## 📊 Data Model
+##  Data Model
 
 The API manages the following core entities:
 
