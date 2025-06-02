@@ -82,7 +82,6 @@ The API manages the following core entities:
 *   **Status:** `enum` or `string` - Represents the current state of the event (e.g., Draft, Active, Past, Cancelled).
 *   **ImageUrl:** `string` (optional) - URL to an image representing the event.
 *   **Location:** `string` (optional) - Physical or virtual location of the event.
-*   *(Other relevant fields like `Organizer`, `Venue`, etc., could be added)*
 
 ### Category
 *   **Id:** Unique identifier (e.g., `Guid` or `int`)
